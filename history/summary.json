@@ -5,18 +5,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png",
     "slug": "search-femboy-hu",
     "status": "down",
-    "uptime": "43.09%",
-    "uptimeDay": "43.09%",
-    "uptimeWeek": "43.09%",
-    "uptimeMonth": "43.09%",
-    "uptimeYear": "43.09%",
+    "uptime": "21.72%",
+    "uptimeDay": "21.72%",
+    "uptimeWeek": "21.72%",
+    "uptimeMonth": "21.72%",
+    "uptimeYear": "21.72%",
     "time": 617,
     "timeDay": 617,
     "timeWeek": 617,
     "timeMonth": 617,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2023-01-31": 36,
+      "2023-01-31": 612,
       "2023-01-30": 298
     }
   },
@@ -127,7 +127,7 @@
     "timeMonth": 2118,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2023-01-31": 36,
+      "2023-01-31": 612,
       "2023-01-30": 550
     }
   },
@@ -154,18 +154,20 @@
     "url": "https://search.funami.tech/",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/kr.png",
     "slug": "search-funami-tech",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 592,
     "timeDay": 592,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   },
   {
     "name": "search.madreyk.xyz",
