@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -726,7 +726,7 @@
     "timeMonth": 0,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -939,7 +939,7 @@
     "timeMonth": 0,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -1181,7 +1181,7 @@
     "timeMonth": 0,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -1371,7 +1371,7 @@
     "timeMonth": 0,
     "timeYear": 1780,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -1693,18 +1693,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "search-madreyk-xyz",
     "status": "down",
-    "uptime": "57.82%",
+    "uptime": "57.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.82%",
+    "uptimeYear": "57.81%",
     "time": 2725,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2725,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -1872,7 +1872,7 @@
     "timeMonth": 0,
     "timeYear": 1368,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 55,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -2212,7 +2212,7 @@
     "timeMonth": 0,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 56,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -2312,7 +2312,7 @@
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2023-11-13": 31,
+      "2023-11-13": 56,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -2419,24 +2419,25 @@
     "url": "https://search.mascotboi.xyz/",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png",
     "slug": "search-mascotboi-xyz",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "52.61%",
-    "uptimeWeek": "65.22%",
-    "uptimeMonth": "92.00%",
-    "uptimeYear": "99.15%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "54.24%",
+    "uptimeWeek": "65.44%",
+    "uptimeMonth": "92.05%",
+    "uptimeYear": "99.16%",
     "time": 284,
     "timeDay": 527,
     "timeWeek": 386,
     "timeMonth": 280,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2023-11-13": 1,
       "2023-11-12": 715,
       "2023-11-11": 615,
       "2023-11-10": 595,
       "2023-11-09": 567,
       "2023-11-08": 731,
-      "2023-11-07": 285
+      "2023-11-07": 262
     }
   },
   {
@@ -2456,7 +2457,7 @@
     "timeMonth": 0,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2023-11-13": 32,
+      "2023-11-13": 56,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
