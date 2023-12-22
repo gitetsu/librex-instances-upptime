@@ -1,7 +1,7 @@
 url: https://librex.pufe.org/
-status: up
-code: 200
-responseTime: 839
-lastUpdated: 2023-12-21T23:14:35.567Z
+status: down
+code: 503
+responseTime: 654
+lastUpdated: 2023-12-22T01:35:12.098Z
 startTime: 2023-01-30T14:50:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
